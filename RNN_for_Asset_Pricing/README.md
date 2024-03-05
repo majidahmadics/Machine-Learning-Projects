@@ -1,3 +1,9 @@
+# Asset Pricing Using Different Deep Learning Models
+
+## Table of Contents
+- [Asset Pricing Prediction with RNN](#introduction)
+- [Asset Pricing Prediction with LSTM](#installation)
+
 # Asset Pricing Prediction with RNN
 
 This project demonstrates how to build a simple Recurrent Neural Network (RNN) model for asset pricing prediction using historical stock price data. The RNN model is implemented using TensorFlow's Keras API.
