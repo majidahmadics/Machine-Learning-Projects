@@ -1,8 +1,8 @@
 # Asset Pricing Using Different Deep Learning Models
 
 ## Table of Contents
-- [Asset Pricing Prediction with RNN](#introduction)
-- [Asset Pricing Prediction with LSTM](#installation)
+- [Asset Pricing Prediction with RNN](#Requirements)
+- [Asset Pricing Prediction with LSTM](#DataCollection)
 
 # Asset Pricing Prediction with RNN
 
